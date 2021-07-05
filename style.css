@@ -1,0 +1,35 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-image: url(img/bgperfect.jpg);
+    background-repeat: no-repeat;
+}
+li{
+    display: inline-block;
+}
+li a{
+    text-decoration: none;
+    padding: 0 10px;
+    color: white;
+
+}
+.nav-bar{
+    display: flex;
+    width: 75%;
+    justify-content: center;
+    margin-left: 12.5%;
+    align-items: center;
+}
+#fontsize{
+    font-size: 20px;
+}
+
+.link-section{
+    margin-left: 2%;
+}
+.icon-social{
+    margin-left: 20%;
+}
+
+
+
+
